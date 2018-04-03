@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<someRoot>
+    <foo>I am a foo.</foo>
+    <bar>Am I a bar?</bar>
+    <baz>Baz am I.</baz>
+</someRoot>
